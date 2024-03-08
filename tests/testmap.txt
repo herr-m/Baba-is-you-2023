@@ -1,0 +1,5 @@
+5 5
+wall 0 0
+text_wall 4 2
+is 4 3
+you 4 4
