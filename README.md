@@ -9,10 +9,11 @@ Unit tests are written using the catch library.
 
 ## Demo
 Terminal version\
-![Terminal demo]()
+![Terminal demo](https://github.com/herr-m/Baba-is-you-2023/blob/master/demo_console.gif)
 
 Graphical version\
-![GUI demo]()
+![GUI demo](https://github.com/herr-m/Baba-is-you-2023/blob/master/demo_gui.gif)
+
 ## Controls
 - Movement: `Directional arrows`
 - Restart level: `R`
